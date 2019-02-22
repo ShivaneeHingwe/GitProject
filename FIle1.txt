@@ -4,7 +4,7 @@ Welcome to git !!!!!!!!!
 
 
 
-change1
+Change---->1
 
 Welcome again..
 
@@ -12,8 +12,12 @@ Welcome again..
 
 
 
+<<<<<<< HEAD
 change2 
 
 
 
 change3
+=======
+Change------>2 
+>>>>>>> bug123
